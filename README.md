@@ -48,41 +48,20 @@ A fully functional Student Management Portal built with React, providing essenti
 4. **Search Students**: Use the search bar on the "Student Info" page to filter students by name or ID.
 5. **Edit/Delete**: Update or remove records directly from the student list.
 
-## Folder Structure
-```plaintext
-├── public
-├── src
-│   ├── components
-│   │   ├── Navigation.jsx
-│   │   ├── RegistrationForm.jsx
-│   │   ├── StudentDetails.jsx
-│   │   └── StudentList.jsx
-│   ├── context
-│   │   └── StudentContext.jsx
-│   ├── pages
-│   │   ├── Home.jsx
-│   │   ├── RegisterStudent.jsx
-│   │   ├── StudentInfo.jsx
-│   │   └── StudentListPage.jsx
-│   ├── utils
-│   │   └── api.js
-│   └── App.jsx
-├── data.json
-└── README.md
 
 ## Components Overview
 
 ### Navigation
-- Provides navigation between pages like Home, Register, Student List, and Student Info.
+Provides navigation between pages like Home, Register, Student List, and Student Info.
 
 ### RegistrationForm
-- Contains the form fields for registering new students and handles form submission.
+Contains the form fields for registering new students and handles form submission.
 
 ### StudentList
-- Displays all students in a table format and provides the delete button to remove student records.
+Displays all students in a table format and provides the delete button to remove student records.
 
 ### StudentDetails
-- Displays detailed information for a selected student, including name, age, class, address, and contact.
+Displays detailed information for a selected student, including name, age, class, address, and contact.
 
 ## API & Data Management
 
@@ -91,7 +70,6 @@ A fully functional Student Management Portal built with React, providing essenti
 - **Context API**: `StudentContext` manages the global state for students, making it accessible across components.
 
 ## Technologies Used
-
 - **React**: Frontend framework for building UI components.
 - **Bootstrap**: Styling and layout.
 - **React-Router**: For page navigation.
@@ -99,9 +77,7 @@ A fully functional Student Management Portal built with React, providing essenti
 - **Vite**: Development server and build tool for React projects.
 
 ## Contributing
-
 Contributions are welcome! Please fork the repository and create a pull request.
 
 ## License
-
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the MIT License.
