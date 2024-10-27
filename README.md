@@ -6,7 +6,6 @@ A fully functional Student Management Portal built with React, providing essenti
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Components Overview](#components-overview)
 - [API & Data Management](#api--data-management)
 - [Technologies Used](#technologies-used)
