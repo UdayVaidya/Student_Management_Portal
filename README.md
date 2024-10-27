@@ -24,7 +24,7 @@ A fully functional Student Management Portal built with React, providing essenti
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/UdayVaidya/CodeFlow-Nexus.git
+    https://github.com/UdayVaidya/Student_Management_Portal.git
     ```
 2. Navigate to the project directory:
     ```bash
