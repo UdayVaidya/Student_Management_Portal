@@ -38,7 +38,7 @@ A fully functional Student Management Portal built with React, providing essenti
     ```bash
     npm run dev
     ```
-5. Open your browser and visit `http://localhost:3000` to view the portal.
+5. Open your browser and visit `http://localhost:5173` to view the portal.
 
 ## Usage
 1. **Dashboard**: View the total number of students.
